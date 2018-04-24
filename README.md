@@ -61,6 +61,6 @@ TODO
 * [Run through GraphQL's official tutorial](https://graphql.org/learn/)
 
 #### Extra
-* [How To GraphQL Tutorials](https://www.howtographql.com/)
+* ["How To GraphQL" Tutorials](https://www.howtographql.com/)
 * [Apollo Client React Tutorial](https://www.apollographql.com/docs/react/essentials/get-started.html)
 * [Apollo Server Express Tutorial](https://www.apollographql.com/docs/apollo-server/servers/express.html)
