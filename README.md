@@ -52,6 +52,11 @@ TODO
 
 TODO
 
-## GraphQL
+### GraphQL
 
-TODO
+### Required
+* [Read about why GitHub is using GraphQL](https://githubengineering.com/the-github-graphql-api/)
+* [Run through GraphQL's official tutorial](https://graphql.org/learn/)
+
+#### Extra
+* [How To GraphQL Tutorials](https://www.howtographql.com/)
