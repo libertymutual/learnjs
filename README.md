@@ -50,7 +50,9 @@ TODO
 
 ## React
 
-TODO
+### Required
+
+* [Run through React's official tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 ### GraphQL
 
@@ -60,3 +62,5 @@ TODO
 
 #### Extra
 * [How To GraphQL Tutorials](https://www.howtographql.com/)
+* [Apollo Client React Tutorial](https://www.apollographql.com/docs/react/essentials/get-started.html)
+* [Apollo Server Express Tutorial](https://www.apollographql.com/docs/apollo-server/servers/express.html)
