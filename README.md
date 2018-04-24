@@ -54,7 +54,7 @@ TODO
 
 * [Run through React's official tutorial](https://reactjs.org/tutorial/tutorial.html)
 
-### GraphQL
+## GraphQL
 
 ### Required
 * [Read about why GitHub is using GraphQL](https://githubengineering.com/the-github-graphql-api/)
