@@ -19,6 +19,7 @@ This guide is divided into sections:
 * [Learn how JavaScript, V8, and the "event loop" work](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Know the difference between function expressions vs named functions](https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname)
 * [Learn basic JavaScript OOP – you should be able to use and explain constructor functions, object instances, and object literals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+* [Learn about JavaScript Promises](https://developers.google.com/web/fundamentals/primers/promises) and [async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
 * [Learn what "ES6" is and how it is different than JavaScript](https://softwareengineering.stackexchange.com/a/306847)
 * [Familiarize yourself with ES6 syntax](http://es6-features.org/)
   * _Particularly:_ [classes](http://es6-features.org/#ClassDefinition), [arrow functions](http://es6-features.org/#ExpressionBodies), [object property shorthand](http://es6-features.org/#PropertyShorthand), [string interpolation](http://es6-features.org/#StringInterpolation), [destructured assignment](http://es6-features.org/#ObjectMatchingShorthandNotation)
